@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1564630092 source:f:\programming\c\school_database\first.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1564492326 source:f:\programming\c\school_database\linked_list_functions.c
+
+1564631121 source:f:\programming\c_codes\school_database\first.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
